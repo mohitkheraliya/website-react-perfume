@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Dhoop Fragrance",
+    "img": "dhoopfragrance.jpg",
+    "description": [
+      "Traditional Incense Fragrance",
+      "Aromatic Temple Fragrance",
+      "Meditative and Calming Scent"
+    ]
+  },
+  {
+    "name": "Attar Fragrance",
+    "img": "attar1.jpg",
+    "description": [
+      "All Attar Fragrance",
+      "Mitti Attar Fragrance",
+      "Floral Shamama Attar"
+    ]
+  },
+  {
+    "name": "Floral Fragrance",
+    "img": "floralfragrance.jpeg",
+    "description": [
+      "Fresh Garden Blossom Scent",
+      "Rose Fragrance Perfume",
+      "All Types Jasmine Fragrance"
+    ]
+  },
+  {
+    "name": "Soap Fragrance",
+    "img": "soap.jpg",
+    "description": [
+      "Mild and Clean Scent",
+      "Perfect for Bath Soaps and Bars",
+      "Gentle and Skin-Friendly Aroma"
+    ]
+  },
+  {
+    "name": "Body Fragrance",
+    "img": "bodyfragrance.png",
+    "description": [
+      "Fresh and Pleasant Body Mist",
+      "Long-Lasting Personal Scent",
+      "Gentle Daily Use Formula"
+    ]
+  },
+  {
+    "name": "Home Fragrance",
+    "img": "homefragrance.jpg",
+    "description": [
+      "Refreshing Room Freshener",
+      "Candle Fragrance", 
+      "Ideal for Living and Bedroom Spaces"
+    ]
+  },
+  {
+    "name": "Hair Oil Fragrance",
+    "img": "hairoil.jpg",
+    "description": [
+      "Natural and Mild Scent for Hair Oils",
+      "Non-Irritating and Pleasant Aroma",
+      "Compatible with Herbal Oil Bases"
+    ]
+  },
+  {
+    "name": "Woody Fragrance",
+    "img": "wood.jpg",
+    "description": [
+      "Woody Fragrance",
+      "All Sandal wood Fragrance"
+    ]
+  },
+  {
+    "name": "Car Fragrance",
+    "img": "car.jpg",
+    "description": [
+      "Car Freshnes Fragrance"
+    ]
+  },
+  {
+    "name": "Hand senitizer",
+    "img": "handsenitizer.png",
+    "description": [
+      "Hand Sanitizer Fragrance"
+    ]
+  }
+]

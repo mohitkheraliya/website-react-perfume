@@ -1,0 +1,40 @@
+
+footer {
+  background-image: linear-gradient(to bottom, #000, #362828d1);
+}
+
+footer a {
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #ffffff;
+}
+
+footer svg path {
+  fill: white;
+}
+
+footer i {
+  font-size: 1rem;
+}
+
+.footer-logo {
+  margin-top: -0.5rem;
+  display: inline-block;
+  font-family: "DaniloCatalina";
+  font-weight: 600;
+  background: radial-gradient(
+    274.18% 64.63% at 42.71% 80.49%,
+    #ab572d 0%,
+    #ec9a52 44.06%,
+    #a5470f 99.99%,
+    #ab5829 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  line-height: 100%;
+  display: flex;
+}

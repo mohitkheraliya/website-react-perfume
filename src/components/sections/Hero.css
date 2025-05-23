@@ -1,0 +1,50 @@
+.hero {
+  max-width: 230rem;
+  margin-top: -7rem;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.hero__content {
+  display: flex;
+  flex-direction: column;
+  justify-self: start;
+}
+
+.hero__title {
+  font-size: 3.5rem;
+}
+
+.hero__description {
+  margin-top: 2rem;
+  color: #ffffff;
+}
+
+.hero__img {
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+  .hero {
+    background-image: linear-gradient(rgba(0,0,0, .5), rgba(0,0,0, .85)), url(../../../public/images/spray.png);
+    object-fit: cover;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: 90%;
+  }
+
+  .hero__content {
+    z-index: 10;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .hero{
+    background-position: 50%;
+  }
+
+  .hero-heading {
+    line-height: 6rem;    
+  }
+}
